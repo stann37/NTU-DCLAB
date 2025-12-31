@@ -1,14 +1,21 @@
-# NTU-DCLAB
-This repository contains code to Electrical Engineering Lab (Digital Circuit) at National Taiwan University, Fall 2025.
+# Electrical Engineering Lab (Digital Circuit)
 
-## LAB1
-Random number generator using LFSR.
+This repository contains my homework assignments and final project for the **Electrical Engineering Lab (Digital Circuit)** course at **National Taiwan University (NTU), Fall 2025**.  
 
-## LAB2
-RSA-256 decryption module.
+---
 
-## LAB3
-Digital audio recorder with audio codec controller.
+## Contents
 
-## Final
-Guitar effects pedal on FPGA.
+- **LAB1**  
+  - Random number generator using LFSR.
+
+- **LAB2**  
+  - RSA-256 decryption module.
+
+- **LAB3**  
+  - Digital audio recorder with audio codec controller. 
+
+- **Final Project**  
+  - Guitar effects pedal on FPGA.
+
+---
